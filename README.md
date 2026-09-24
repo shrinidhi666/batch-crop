@@ -39,3 +39,7 @@ python batch_crop.py
 ## Build the exe
 
 Requires Python 3.13 and Visual Studio 2022 (C++ build tools). Run `build.bat` — it compiles with [Nuitka](https://nuitka.net) into a single standalone `dist\BatchCrop.exe`.
+
+## License
+
+[MIT](LICENSE)
